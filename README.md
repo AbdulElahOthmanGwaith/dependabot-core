@@ -22,9 +22,9 @@ This project provides a reliable and scalable solution following modern best pra
 
 **العربية:**  
 مشروع مفتوح المصدر يقدّم حلًا عمليًا ومنظمًا، مع التركيز على:
-- جودة الكود
-- سهولة الاستخدام
-- القابلية للتوسّع
+- جودة الكود  
+- سهولة الاستخدام  
+- القابلية للتوسّع  
 
 ---
 
@@ -40,10 +40,10 @@ This project provides a reliable and scalable solution following modern best pra
 
 ## 🛠 Tech Stack | التقنيات المستخدمة
 
-- **Language:** JavaScript / Python / PHP (عدّل حسب مشروعك)
-- **Framework:** Optional
-- **Database:** Optional
-- **Tools:** Git, Docker, GitHub Actions
+- **Language:** JavaScript / Python / PHP (عدّل حسب مشروعك)  
+- **Framework:** Optional  
+- **Database:** Optional  
+- **Tools:** Git, Docker, GitHub Actions  
 
 ---
 
